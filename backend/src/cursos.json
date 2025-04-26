@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "nome": "Desenvolvimento Webop",
+    "instituicao": "Universidade XYZ",
+    "nivel": "Graduação",
+    "grande_area": "Ciência da Computação",
+    "vagas": 50,
+    "ano_inauguracao": 2010,
+    "nome_professor": "Maria Silva",
+    "idioma": "Português"
+  },
+  {
+    "id": 2,
+    "nome": "Inteligência Artificial",
+    "instituicao": "Instituto ABC",
+    "nivel": "Pós-Graduação",
+    "grande_area": "Engenharia de Software",
+    "vagas": 30,
+    "ano_inauguracao": 2018,
+    "nome_professor": "João Pereira",
+    "idioma": "Inglês"
+  },
+  {
+    "id": 3,
+    "nome": "Segurança da Informação",
+    "instituicao": "Faculdade 123",
+    "nivel": "Especialização",
+    "grande_area": "Tecnologia da Informação",
+    "vagas": 20,
+    "ano_inauguracao": 2015,
+    "nome_professor": "Ana Costa",
+    "idioma": "Espanhol"
+  },
+  {
+    "id": 4,
+    "nome": "Computação em Nuvem",
+    "instituicao": "Universidade XYZ",
+    "nivel": "Graduação",
+    "grande_area": "Ciência da Computação",
+    "vagas": 40,
+    "ano_inauguracao": 2012,
+    "nome_professor": "Carlos Almeida",
+    "idioma": "Português"
+  },
+  {
+    "id": 5,
+    "nome": "Análise de Dados",
+    "instituicao": "Instituto ABC",
+    "nivel": "Pós-Graduação",
+    "grande_area": "Ciência de Dados",
+    "vagas": 25,
+    "ano_inauguracao": 2019,
+    "nome_professor": "Fernanda Lima",
+    "idioma": "Inglês"
+  }
+]
